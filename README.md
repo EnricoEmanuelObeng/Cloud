@@ -5,9 +5,13 @@
 - Pay as you go
 - management sorted
 
+<br>
+
 ## History
 
 ![image1](images/image1.png)
+
+<br>
 
 ## Types
 
@@ -26,6 +30,8 @@
 
     Using multiple public cloud providers
 
+<br>
+
 ## Service models
 
 ![image2](images/image2.png)
@@ -43,7 +49,11 @@
 
     **Function as a Service** - 1 off functions (Event driven)
 
+#### Examples
+
 ![image19](images/image9.png)
+
+<br>
 
 ## Market Share
 
@@ -53,6 +63,8 @@ services.
 - **Google Cloud:** 12% share.
 - These three providers account for over 60% of the global cloud market, 
 with the remaining competition in the low single digits. 
+
+<br>
 
 ## Top 3 UPS
 
@@ -67,6 +79,8 @@ Azure offers a wide range of enterprise tools (AI + Machine Learning, Analytics,
 **Google Cloud Platform (GCP):** Leading in artificial intelligence and machine learning, 
 GCP is known for its integration with Google’s other products and unique security features. 
 
+<br>
+
 ## Cloud computing ADV vs DISADV
 
 | Advantages        | Disadvanteges     |
@@ -78,6 +92,8 @@ GCP is known for its integration with Google’s other products and unique secur
 | Scalability       | 
 | Data security     |
 
+
+<br>
 
 ## Cloud pricing models
 
@@ -122,6 +138,8 @@ identify and orchestrate the right cloud strategies and solutions.
 Ultimately, Spotify’s on-premise to cloud migration succeeded in increasing
 scalability while freeing up developers to innovate.
 
+<br>
+
 ![image11](images/image11.png) 
 
 Waze’s stability and reliability depends on avoiding downtime, 
@@ -131,6 +149,8 @@ providers — GCP and Amazon Web Services (AWS) — to improve the resiliency
 of their production systems. Spinnaker streamlines multi-cloud deployment 
 for Waze, meaning that developers can focus on development.
 
+<br>
+
 ![image12](images/image12.png) 
 
 They sought to improve site performance, engineering efficiency, and UX.
@@ -139,6 +159,7 @@ chose GCP initially deploying a hybrid environment (private data center and
 GKE), providing redundancy, reducing risk, and allowing them to perform A/B 
 testing.
  
+<br>
 
 ## Main data raleted cloud service
 
@@ -151,11 +172,15 @@ testing.
    - Alibaba Cloud supports major operations for large and small enterprises, SMEs, governments, and non-profit organizations.
 5. **IBM Cloud** – Multi-cloud CSP
 
+<br>
+
 ### Data cloud certification path
 
 A data cloud certification path typically involves a series of credentials that 
 validate a professional's skills in managing and optimising data within a cloud
 environment.
+
+<br>
 
 ## Region
 - clustered data centres
