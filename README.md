@@ -7,11 +7,11 @@
 
 ## History
 
-![image1](images\image1.png)
+![image1](images/image1.png)
 
 ## Types
 
-![image3](images\image3.png)
+![image3](images/image3.png)
 
 1. Public
 
@@ -28,7 +28,7 @@
 
 ## Service models
 
-![image2](images\image2.png)
+![image2](images/image2.png)
 
 1. IaaS
     
@@ -43,7 +43,7 @@
 
     **Function as a Service** - 1 off functions (Event driven)
 
-![image19](images\image9.png)
+![image19](images/image9.png)
 
 ## Market Share
 
@@ -109,7 +109,7 @@ someone places a higher bid, you may lose access to these resources.
 
 ## Case studies
 
-![image10](images\image10.png)
+![image10](images/image10.png)
 
 Gaining stakeholder buy-in is crucial. Spotify was careful to consult 
 its engineers about the difficulty of mantaining data centers and would be
@@ -122,7 +122,7 @@ identify and orchestrate the right cloud strategies and solutions.
 Ultimately, Spotify’s on-premise to cloud migration succeeded in increasing
 scalability while freeing up developers to innovate.
 
-![image11](images\image11.png) 
+![image11](images/image11.png) 
 
 Waze’s stability and reliability depends on avoiding downtime, 
 deploying quick fixes to bugs, and ensuring consistent production systems.
@@ -131,7 +131,7 @@ providers — GCP and Amazon Web Services (AWS) — to improve the resiliency
 of their production systems. Spinnaker streamlines multi-cloud deployment 
 for Waze, meaning that developers can focus on development.
 
-![image12](images\image12.png) 
+![image12](images/image12.png) 
 
 They sought to improve site performance, engineering efficiency, and UX.
 They also wanted to ensure long-term scalability and sustainability. They 
