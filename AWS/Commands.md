@@ -89,6 +89,7 @@
     sudo nano install_nginx.sh = create the file in the virtual machine
     ./install_nginx.sh = run the file
     sudo chmod +x install_nginx.sh = if permission is denied (use this)
+    source install_nginx.sh = another way of running the files
 
 ## Documentation
     man man = all documentation
@@ -174,3 +175,75 @@ Others (o)
 
     Make a script executable for everyone:
     chmod 755 script.sh
+
+<br>
+
+    sudo systemctl stop nginx = stop a process gracefully
+    sudo systemctl restart nginx = stop and start a process
+    sudo systemctl start nginx = start a process 
+
+<br>
+
+    sleep 5000 & = running something in the background
+    jobs = list processes running in the background
+    jobs -l = list more info on processes running in the background
+
+<br>
+
+    kill -1 <id> = kill slowly gently
+    kill -1 14512 = hangup
+    kill -15 <id> = kill any child processes or any dependencies
+    kill -15 14516 = terminate
+    kill -9 <id> = kill
+    kill -9 14533 = forcefully stop
+
+<br>
+
+    sudo chmod o=rwx install_nginx.sh = change permission
+    sudo chmod 644 install_nginx.sh
+
+
+### Wildcards:
+There are three basic wildcards:
+- "* = allow zero or more characters of any type"
+- "? = allow any single character"
+- "[] = allow a range of characters"
+
+
+    ls e* = print all files that start with e
+    ls example?.txt
+    ls example[1-3].txt
+
+<br>
+
+env
+printenv HOME
+echo $MYNAME
+export MYNAME=enrico
+printenv MYNAME
+
+<br>
+
+exit
+
+make something persistent on ebvry launch -> nano .bashrc -> code it at the bottom -> save and run with source .bashrc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

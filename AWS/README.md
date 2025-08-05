@@ -14,13 +14,35 @@
         change description as well - use naming convention (data504-enrico-basic-sg created 2025-08-01T14:06:10.340Z)
         Inbound Security Group Rules - ssh/http (use defualt rules)
 
-    6) Open instance link
-        connect -> ssh client -> copy example key
+## 3. Run instance
+    Open instance link (green message) -> connect -> ssh client -> copy example key
 
-    7) Open git bash -> go on .ssh folder -> paste and run key
+    Open git bash -> go on .ssh folder -> paste and run key
 
-## 3. Closing
+## 4. Close instance
     Terminate instance - instance state -> terminate (delete) instance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
