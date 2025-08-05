@@ -228,6 +228,10 @@ exit
 
 make something persistent on ebvry launch -> nano .bashrc -> code it at the bottom -> save and run with source .bashrc
 
+## Create a new image
+
+actions -> create an image -> select image name and description -> launch instance using created image -> copy public IP address into program of your choosing
+
 
 
 
